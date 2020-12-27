@@ -17,7 +17,7 @@ GUI_AppTDA _first calculates the correlation-based distance to be a point cloud 
 - Install_GUI_AppTDA.exe
 - readme.txt
 
-**[lib]**
+**[lib]**  
 (This folder is for Javaplex package)
 - javaplex.jar
 - plex-viewer.jar
