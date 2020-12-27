@@ -13,16 +13,16 @@ GUI_AppTDA _first calculates the correlation-based distance to be a point cloud 
 
 ### Contents
 
-[installation]
+**[installation]**
 - Install_GUI_AppTDA.exe
 - readme.txt
 
-[lib]
+**[lib]**
 (This folder is for Javaplex package)
 - javaplex.jar
 - plex-viewer.jar
 
-[source_code]
+**[source_code]**
 - barcode_area.m
 - barcode_curve.m
 - barcode_diagram.m
