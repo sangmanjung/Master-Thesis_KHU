@@ -14,7 +14,7 @@ This repository is about my thesis for the degree of master of science.
 
 - __Contents__
   + GUI_AppTDA [(click to go)](https://github.com/sangmanjung/Master-Thesis_KHU/edit/main/GUI_AppTDA/)  
-    My application program for my thesis
+    The application program I developed
       
   + presentation [(click to go)](https://github.com/sangmanjung/Master-Thesis_KHU/edit/main/presentation/)  
     My thesis presentation files (if you want to see..)
