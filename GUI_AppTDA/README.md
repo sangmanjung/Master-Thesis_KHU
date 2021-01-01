@@ -16,7 +16,7 @@ GUI_AppTDA _first calculates the correlation-based distance to be a point cloud 
 ![GUI_AppTDA](https://user-images.githubusercontent.com/43581612/103168635-41136e80-4878-11eb-94f8-f59dd911a923.png)
 
 
-### Contents
+### Contents (zip file)
 
 **[installation]**
 - Install_GUI_AppTDA.exe
