@@ -1,4 +1,4 @@
-### Master-Thesis_KHU  
+## Master-Thesis_KHU  
 
 This repository is about my thesis for the degree of master of science.
   
