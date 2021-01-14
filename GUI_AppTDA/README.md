@@ -6,7 +6,7 @@
   
   <br>
   
-GUI program using MATLAB App Designer. This program was developed with reference to the following.  
+GUI program using MATLAB App Designer. This program was developed with references to the following.  
 
 >(1) Lee, H., Kang, H., Chung, M. K., Kim, B. N., & Lee, D. S. (2012). Persistent brain network homology from the perspective of dendrogram. IEEE transactions on medical imaging, 31(12), 2267-2277.  
 >(2) Javaplex software package (http://appliedtopology.github.io/javaplex/)
