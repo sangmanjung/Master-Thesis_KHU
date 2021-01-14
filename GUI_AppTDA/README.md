@@ -1,7 +1,10 @@
 
 ## Graphical User Interface for the Application of Topological Data Analysis (GUI_AppTDA)
+
   
   >정상만, 김경수. "위상적 데이터 분석을 위한 그래픽 사용자 인터페이스 개발" 자연과학논문집 26.1 (2020): 26-34.  
+  
+  <br>
   
 GUI program using MATLAB App Designer. This program was developed with reference to the following.  
 
