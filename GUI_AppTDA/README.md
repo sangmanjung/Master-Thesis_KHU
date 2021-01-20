@@ -18,7 +18,10 @@ GUI_AppTDA _first calculates the correlation-based distance to be a point cloud 
 
 <br>
 
-![GUI_AppTDA](https://user-images.githubusercontent.com/43581612/103168635-41136e80-4878-11eb-94f8-f59dd911a923.png)
+![GUI_AppTDA](https://user-images.githubusercontent.com/43581612/103168635-41136e80-4878-11eb-94f8-f59dd911a923.png)  
+
+#### Updated version!  👇👇👇
+![프로그램 저작권](https://user-images.githubusercontent.com/43581612/105175638-938a3700-5b67-11eb-83e2-bf21c618e413.png)
 
 
 ### Contents (zip file)
