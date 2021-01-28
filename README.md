@@ -19,5 +19,5 @@ This repository is about my thesis for the degree of master of science.
   + presentation [(click to go)](https://github.com/sangmanjung/Master-Thesis_KHU/edit/main/presentation/)  
     My thesis presentation files (if you want to see..)
 
-  + Application of Topological Data Analysis for Biomechanical Dataset_sangmanjung.pdf
+  + Application of Topological Data Analysis for Biomechanical Dataset_sangmanjung.pdf  
     My thesis (pdf format)
