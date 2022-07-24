@@ -4,6 +4,7 @@ This repository is about my thesis for the degree of master of science.
   
 - __Title:__
 
+  > 정상만. "Application of topological data analysis for biomechanical dataset." 국내석사학위논문 경희대학교 대학원, 2021. 서울
   + _Application of Topological Data Analysis for Biomechanical Dataset_  
   
 - __Abstract__
